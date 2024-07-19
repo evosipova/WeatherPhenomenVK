@@ -1,0 +1,15 @@
+/* 
+  Localizable.eng.strings
+  WeatherPhenomenVK
+
+  Created by Elizaveta Osipova on 7/19/24.
+  
+*/
+
+"sun" = "Sun";
+"rain" = "Rain";
+"rainbow" = "Rainbow";
+"lightning" = "Lightning";
+"starry" = "Starry Sky";
+"snow" = "Snow";
+"moon" = "Moon";
